@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "30d43a0fea396717",
+    "type": "split",
+    "children": [
+      {
+        "id": "b69cb411cbbfcee7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "864aeb8df7264a62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "자바스크립트 기본/4. 변수와 상수.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c10a91c7b2314e3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "자바스크립트 기본/5. 자료형.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e0ab1a2eab88f845",
+    "type": "split",
+    "children": [
+      {
+        "id": "e86ebb47c0557872",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edb0950d758783ce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c0a53fbeb832f294",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a8f8c8be70d3ca2f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "d83cdb1f157c36d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a195e58651bc122",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f984b58a5181288",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "자바스크립트 기본/5. 자료형.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "28eb6b5a0dc7d073",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "자바스크립트 기본/5. 자료형.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "197bf1a9aed851fa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b56fc09ada4cf66a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "자바스크립트 기본/5. 자료형.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "c10a91c7b2314e3c",
+  "lastOpenFiles": [
+    "자바스크립트 기본/4. 변수와 상수.md",
+    "자바스크립트 기본/5. 자료형.md",
+    "자바스크립트 기본/3. 엄격 모드.md",
+    " 소개/4. 개발자 콘솔.md"
+  ]
+}
